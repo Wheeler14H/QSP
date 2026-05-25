@@ -308,9 +308,12 @@ python main.py
 
 
 
-> **⚠️ 注意**
-> 
-> 若有项目功能方面或运行问题，请查阅 **`Function description.md`** 获取详细说明。
+<div align="center">
+  <blockquote>
+    <strong>⚠️ 提示</strong><br>
+    若有项目功能方面或运行问题，请查阅 <strong><code>Function description.md</code></strong>
+  </blockquote>
+</div>
 ---
 
 
